@@ -1,0 +1,28 @@
+{
+  "title": "Which Moon Phase Are You?",
+  "question": "Which of these best describes you?",
+  "options": [
+    "I love the night sky.",
+    "I'm emotional.",
+    "I seek balance.",
+    "I embrace change."
+  ],
+  "results": [
+    {
+      "title": "Full Moon",
+      "description": "You're complete and glowing."
+    },
+    {
+      "title": "Crescent Moon",
+      "description": "You're growing and learning."
+    },
+    {
+      "title": "Half Moon",
+      "description": "You're balanced and calm."
+    },
+    {
+      "title": "New Moon",
+      "description": "You're ready for new beginnings."
+    }
+  ]
+}
