@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:02,540
+Which of these best describes you?
+
+2
+00:00:02,540 --> 00:00:04,470
+I love the night sky.
+
+3
+00:00:04,470 --> 00:00:06,100
+I'm emotional.
+
+4
+00:00:06,100 --> 00:00:07,970
+I seek balance.
+
+5
+00:00:07,970 --> 00:00:10,030
+I embrace change.
+
+6
+00:00:10,030 --> 00:00:13,680
+Full Moon. You're complete and glowing.
+
+7
+00:00:13,680 --> 00:00:17,470
+Crescent Moon. You're growing and learning.
+
+8
+00:00:17,470 --> 00:00:21,160
+Half Moon. You're balanced and calm.
+
+9
+00:00:21,160 --> 00:00:25,010
+New Moon. You're ready for new beginnings.
